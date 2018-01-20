@@ -1,0 +1,17 @@
+name: Gl1tchCraftEconomy
+version: 1
+main: me.gl1tchcraft.economy.Main
+description: The Gl1tchCraft Economy
+commands:
+    balance:
+        usage: /<command>
+        description: Balance command.
+        aliases: [bal]
+    economy:
+        usage: /<command>
+        description: Balance command.
+        aliases: [eco, setbal, addbal, removebal]
+    pay:
+        usage: /<command>
+        description: Balance command.
+        aliases: [sendmoney]
